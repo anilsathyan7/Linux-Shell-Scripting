@@ -31,6 +31,8 @@ sh your-script-name or
 
 Use any editor like vi for editing/modifying the same...
 
+The zodiac files attached are just text files used in the script.Make sure you place them in same directory, when you run it in your system.
+
 Examples:-
 $ ./zodiac.sh
 
