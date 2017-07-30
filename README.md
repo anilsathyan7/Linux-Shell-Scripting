@@ -17,7 +17,7 @@ No installation required in linux systems!!!
 
 For windows:-
 
-Run the codes inside a linux-VM or use Cyqwin. 
+Run the codes inside a linux-VM or use Cygwin. 
 
 ### Running the tests
 
